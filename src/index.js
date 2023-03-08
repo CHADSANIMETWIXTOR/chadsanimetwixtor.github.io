@@ -2,7 +2,7 @@ console.log("LOG REPORTS APPEAR HERE");
 console.info("Connected to server");
 
 
-alert(" This is a preview of CHADS ANIME TWIXTOR. IT IS UNDER CONSTRUCTION")
+// alert(" This is a preview of CHADS ANIME TWIXTOR. IT IS UNDER CONSTRUCTION")
 
 function hideload() {
     document.getElementById("loading").style.display="none";
