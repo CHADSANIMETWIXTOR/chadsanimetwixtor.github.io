@@ -197,10 +197,12 @@ body{
         margin-top: 14px;
     }
 }
-@media (max-width:400px) and (min-width:0px) {
+@media (max-width:500px) and (min-width:0px) {
     #headertxt{
         padding-top: 40px;
     }
+}
+@media (max-width:400px) and (min-width:0px) {
     #headertxt h1{
         margin-top: 80px;
     font-size: 30px;
